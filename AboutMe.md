@@ -6,5 +6,7 @@ Online teaching provided me with charts to visually see common answers or common
 
 ### Math nerd and traveler! 
 
-<img src="images/IMG_0488.JPG?raw=true"/width="48">    <img src="images/IMG_0489.JPG?raw=true"/>  
+<img src="images/IMG_0488.JPG?raw=true" width="60">    
+
+<img src="images/IMG_0489.JPG?raw=true" width="60">  
 
