@@ -8,4 +8,3 @@ Online teaching provided me with charts to visually see common answers or common
 
 <img src="images/IMG_0488.jpg?raw=true"/>  
 
-"/images/Picture1.jpg?raw=true"
