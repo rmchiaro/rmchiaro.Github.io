@@ -2,7 +2,7 @@
 
 ---
 
-#### [About Me](/AboutMe)
+#### [About Me](AboutMe.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
