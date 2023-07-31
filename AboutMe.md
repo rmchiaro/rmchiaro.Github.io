@@ -12,4 +12,4 @@ Online teaching provided me with charts to visually see common answers or common
 
 ### Cat lady but not crazy!
 
-<img src="images/IMG_0489.JPG?raw=true" width="60">
+<img src="images/Cats.pdf?raw=true" width="60">
