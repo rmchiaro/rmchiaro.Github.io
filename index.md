@@ -2,9 +2,7 @@
 
 ---
 
-### About ME  ###
-
-#### [Internal Blog Post Project](AboutMe.md)
+#### [About Me](AboutMe.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
