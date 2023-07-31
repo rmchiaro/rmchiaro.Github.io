@@ -1,7 +1,9 @@
-#                                               My Portfolio
+
+:----: # My Portfolio
 
 ---
 
+:----:
 #### [About Me](AboutMe.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
