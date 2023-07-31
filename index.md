@@ -2,7 +2,7 @@
 
 ---
 
-### Portfolio 
+### About ME  ###
 
 #### [Internal Blog Post Project](AboutMe.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
