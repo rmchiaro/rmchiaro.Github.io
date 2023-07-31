@@ -6,11 +6,11 @@ Online teaching provided me with charts to visually see common answers or common
 
 ### Math nerd and traveler! 
 
-<img src="images/IMG_0488.JPG?raw=true" width="60">    
+<img src="images/IMG_0488.JPG?raw=true" width="100">    
 
-<img src="images/IMG_0489.JPG?raw=true" width="60">  
+<img src="images/IMG_0489.JPG?raw=true" width="100">  
 
 ### Cat lady but not crazy!
 
-<img src="images/Cats.pdf?raw=true">
+<img src="images/Cats.jpg?raw=true">
 
