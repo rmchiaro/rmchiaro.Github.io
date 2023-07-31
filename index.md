@@ -4,7 +4,7 @@
 
 ### Portfolio 
 
-#### [Internal Blog Post Project](About Me.md)
+#### [Internal Blog Post Project](AboutMe.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
