@@ -2,11 +2,11 @@
 
 ---
 
-#### [About Me](AboutMe.md)
+# [About Me](AboutMe.md)
 
 ---
 
-#### [Resume](Resume.md)
+## [Resume](Resume.md)
 
 ---
 
