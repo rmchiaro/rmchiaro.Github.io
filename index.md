@@ -12,6 +12,9 @@
 
 # [Projects](Projects.md)
 
+#### [Excel: Marketing Data](https://www.linkedin.com/pulse/delivery-apps-conveniency-worth-expense-rebecca-chiaro%3FtrackingId=keNYUCyWMJjmph8Fcs6n8g%253D%253D/?trackingId=keNYUCyWMJjmph8Fcs6n8g%3D%3D)
+[<img src="images/Data project 1 pic.png?raw=true"/>](https://www.linkedin.com/pulse/delivery-apps-conveniency-worth-expense-rebecca-chiaro%3FtrackingId=keNYUCyWMJjmph8Fcs6n8g%253D%253D/?trackingId=keNYUCyWMJjmph8Fcs6n8g%3D%3D)
+
 ---
 
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
@@ -22,11 +25,6 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
-
-
----
-#### [Excel: Marketing Data](https://www.linkedin.com/pulse/delivery-apps-conveniency-worth-expense-rebecca-chiaro%3FtrackingId=keNYUCyWMJjmph8Fcs6n8g%253D%253D/?trackingId=keNYUCyWMJjmph8Fcs6n8g%3D%3D)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 
 
 ---
