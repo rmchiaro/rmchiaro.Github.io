@@ -17,7 +17,8 @@
 
 ---
 
-#### [Tableau: Education Data](https://www.linkedin.com/pulse/ma-education-struggles-rebecca-chiaro%3FtrackingId=CS%252BA%252FAHDqD4ytJyBdAJloA%253D%253D/?trackingId=CS%2BA%2FAHDqD4ytJyBdAJloA%3D%3D)
+#### [Tableau: Education Data](https://www.linkedin.com/pulse/ma-education-struggles-rebecca-chiaro%3FtrackingId=CS%252BA%252FAHDqD4ytJyBdAJloA%253D%253D/?trackingId=CS%2BA%2FAHDqD4ytJyBdAJloA%3D%3D) 
+[<img src="images/Success in Education.png?raw=true"/>] (https://www.linkedin.com/pulse/ma-education-struggles-rebecca-chiaro%3FtrackingId=CS%252BA%252FAHDqD4ytJyBdAJloA%253D%253D/?trackingId=CS%2BA%2FAHDqD4ytJyBdAJloA%3D%3D)
 
 
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
