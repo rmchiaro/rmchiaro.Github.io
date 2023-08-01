@@ -10,7 +10,7 @@
 
 ---
 
-# [Projects](Projects.md)
+## Projects
 
 #### [Excel: Marketing Data](https://www.linkedin.com/pulse/delivery-apps-conveniency-worth-expense-rebecca-chiaro%3FtrackingId=keNYUCyWMJjmph8Fcs6n8g%253D%253D/?trackingId=keNYUCyWMJjmph8Fcs6n8g%3D%3D)
 [<img src="images/Data project 1 pic.png?raw=true"/>](https://www.linkedin.com/pulse/delivery-apps-conveniency-worth-expense-rebecca-chiaro%3FtrackingId=keNYUCyWMJjmph8Fcs6n8g%253D%253D/?trackingId=keNYUCyWMJjmph8Fcs6n8g%3D%3D)
