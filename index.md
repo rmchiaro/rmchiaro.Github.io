@@ -2,7 +2,7 @@
 
 ---
 
-# [About Me](AboutMe.md)
+## [About Me](AboutMe.md)
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-### [Projects](Projects.md)
+# [Projects](Projects.md)
 
 ---
 
