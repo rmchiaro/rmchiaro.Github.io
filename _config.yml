@@ -1,7 +1,12 @@
 title: Rebecca Chiaro # your name (or website title) here
 logo: "/images/Picture1.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Driven Educator, Math Nerd, avid traveler, longtime soccer player and I have a big sweet tooth!  <br><br>
+  Data Driven Educator  
+  Data Analyst | Excel | Tableau | SQL
+  
+  Math Nerd | Traveler | Soccer player | Big sweet tooth!  <br><br>
+
+  
   <a href="https://www.linkedin.com/in/rebecca-chiaro/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
