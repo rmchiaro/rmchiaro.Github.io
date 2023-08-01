@@ -25,12 +25,9 @@ My final write up for Avery Smith's 21 Days To Data project covering New York Ci
 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
+#### [Excel: Marketing Data](https://www.linkedin.com/pulse/delivery-apps-conveniency-worth-expense-rebecca-chiaro%3FtrackingId=keNYUCyWMJjmph8Fcs6n8g%253D%253D/?trackingId=keNYUCyWMJjmph8Fcs6n8g%3D%3D)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+
 
 ---
 
