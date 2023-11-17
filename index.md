@@ -23,7 +23,7 @@
 ---
 
 #### [SQL: Financial Data](https://www.linkedin.com/pulse/world-bank-sql-analysis-rebecca-chiaro%3FtrackingId=GLvdZn4GQ4ymkh8TgH7V%252Bw%253D%253D/?trackingId=GLvdZn4GQ4ymkh8TgH7V%2Bw%3D%3D)
-[<img src="images/World Bank SQL Analysis.jpg?raw=true"/>](https://www.linkedin.com/pulse/world-bank-sql-analysis-rebecca-chiaro/?published=t)
+[<img src="images/World Bank SQL Analysis.jpg?raw=true"/>](https://www.linkedin.com/pulse/world-bank-sql-analysis-rebecca-chiaro/)
 
 ---
 
