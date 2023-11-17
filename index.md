@@ -28,7 +28,7 @@
 ---
 
 #### [SQL: Healthcare Data](https://www.linkedin.com/pulse/apple-day-healthcare-analysis-rebecca-chiaro-qupcc%3FtrackingId=0HqrHNj7TlaMd3UvbsQIxg%253D%253D/?trackingId=0HqrHNj7TlaMd3UvbsQIxg%3D%3D)
-[<img src="images/Apple a Day.png.jpg?raw=true"/>](https://www.linkedin.com/pulse/apple-day-healthcare-analysis-rebecca-chiaro-qupcc%3FtrackingId=0HqrHNj7TlaMd3UvbsQIxg%253D%253D/?trackingId=0HqrHNj7TlaMd3UvbsQIxg%3D%3D)
+[<img src="images/Apple a Day.png?raw=true"/>](https://www.linkedin.com/pulse/apple-day-healthcare-analysis-rebecca-chiaro-qupcc%3FtrackingId=0HqrHNj7TlaMd3UvbsQIxg%253D%253D/?trackingId=0HqrHNj7TlaMd3UvbsQIxg%3D%3D)
 
 More projects to come!
 
