@@ -6,7 +6,7 @@
 
 ---
 
-## [Resume](/files/Resume 2024 1.docx)
+## [Resume](/files/Resume 2024 1.pdf)
 
 ---
 
